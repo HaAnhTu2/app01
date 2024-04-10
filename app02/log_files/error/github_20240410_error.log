@@ -1,0 +1,2 @@
+time="2024-04-10T09:29:36.1778758+07:00" level=error msg="pq: value too long for type character varying(20)" file="C:/Users/TB/go/src/go-code/app02/reponsitory/repo_impl/user_repo_impl.go" line=36
+time="2024-04-10T10:19:11.7324359+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="C:/Users/TB/go/src/go-code/app02/reponsitory/repo_impl/user_repo_impl.go" line=36

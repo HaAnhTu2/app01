@@ -1,0 +1,5 @@
+development:
+  dialect: postgres
+  datasource: host=Localhost port=5432 user=tusha password=postgres dbname=app02 sslmode=disable
+  dir: migrations
+  table: migrations
